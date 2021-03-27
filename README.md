@@ -12,9 +12,12 @@ Tecnologias utilizadas:
   
   **Descrição: Rota responsavel pelo calculo DMI (dados do mercado imobiliário)
   
-  **Parametros de entrada :**  
-    valor_metro : "Valor base do metro² na região"
-    metro_quadrado : "Tamanho do metro² a ser vendido"
+**Parametros de entrada :**
+campo  | descricao
+------------- | -------------
+valor_metro  | "Valor base do metro² na região"
+metro_quadrado  | "Tamanho do metro² a ser vendido"
+
     
   **Body de saída :** 
     valor_dmi : "Valor calculado"
