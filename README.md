@@ -17,8 +17,9 @@ campo  | descricao
 ------------- | -------------
 valor_metro  | "Valor base do metro² na região"
 metro_quadrado  | "Tamanho do metro² a ser vendido"
-
-    
-  **Body de saída :** 
-    valor_dmi : "Valor calculado"
+   
+**Body de saída :** 
+campo  | descricao
+------------- | -------------
+valor_dmi | "Valor calculado"
   
