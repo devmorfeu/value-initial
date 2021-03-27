@@ -42,3 +42,9 @@ shopping_center  | "Imovel proximo de shopping"
 metro  | "Imovel proximo de metro"
 bairro  | "bairro que esta localizado o imovel"
 
+**Body de saida :**
+campo  | descricao
+------------- | -------------
+id  | "id do imovel guardado no banco"
+valor_adicional  | "Valor a ser adicionado no imovel"
+
