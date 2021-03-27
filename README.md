@@ -2,11 +2,11 @@
 Realizado tarefa - WEBSERVICES PARA O CASE CYRELA | WEBSERVICES EM RESTFUL
 
 Tecnologias utilizadas:
-  > JAVA 11
-  > SPRING FRAMEWORK
-  > MODEL MAPPER
-  > SLF4J
-  > H2 DATABASE
+  > JAVA 11 |
+  > SPRING FRAMEWORK |
+  > MODEL MAPPER |
+  > SLF4J |
+  > H2 DATABASE 
 
 #ENDPOINT (GET) /pagamentos/v1/pagamentos/valores_imoveis
   
