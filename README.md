@@ -8,7 +8,7 @@ Tecnologias utilizadas:
   > SLF4J |
   > H2 DATABASE 
 
-#ENDPOINT (GET) /pagamentos/v1/pagamentos/valores_imoveis
+# ENDPOINT (GET) /pagamentos/v1/pagamentos/valores_imoveis
   
   Descrição: Rota responsavel pelo calculo DMI (dados do mercado imobiliário)
   
